@@ -1,2 +1,2 @@
 # hello-world
-Another respository
+I'm edicted to coding but much in love with Java
